@@ -3,6 +3,7 @@ kind: Component
 metadata:
   name: python-fastapi-app 
   description: A scaffolded Python web application
+  github.com/project-slug: pep8speaks-org/pep8speaks
 spec:
   type: service
   lifecycle: experimental
